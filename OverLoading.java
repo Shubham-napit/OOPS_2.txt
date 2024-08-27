@@ -1,4 +1,4 @@
-public class OverLoading{
+public class OverLoading {
     
         // Overloaded methods
         int add(int a, int b) {
@@ -18,7 +18,7 @@ public class OverLoading{
         }
     }
     
-    public class Main {
+    public class main {
         public static void main(String[] args) {
             Overloading calc = new OverLoading();
     
